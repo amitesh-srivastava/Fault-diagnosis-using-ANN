@@ -1,0 +1,1 @@
+# Fault-diagnosis-using-ANN
